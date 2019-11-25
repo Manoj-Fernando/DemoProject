@@ -18,7 +18,7 @@ If NON-FASTFORWARD error happens Do:
 
 git fetch myLocalbranch
 
-git merge myLocalbranch master
+git merge myLocalbranch/master master
 
 if this error happens "fatal: refusing to merge unrelated histories":
 
