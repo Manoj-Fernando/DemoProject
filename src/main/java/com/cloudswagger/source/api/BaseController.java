@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api")
 public class BaseController {
 	
-	
+	//Testing for GIT change
 	@RequestMapping("/getTest")
 	public String test() {
 		return "success";
