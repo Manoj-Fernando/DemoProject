@@ -9,7 +9,7 @@ git add . (Addng the files to staging .... "." add all files)
 
 git commit --message "MESSAGE" (Commiting the files to your local repo)
 
-git add remote myLocalbranch "GIT_REMOTE_URL" (Hooking your local to remote)
+git remote add myLocalbranch "GIT_REMOTE_URL" (Hooking your local to remote)
 
 git push myLocalbranch master (Pushing your local repos changes to remote repo)
 
