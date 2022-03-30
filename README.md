@@ -24,3 +24,5 @@ if this error happens "fatal: refusing to merge unrelated histories":
 
 git merge myLocalbranch/master master (important-same format) --allow-unrelated-histories
 
+git push myLocalbranch
+
